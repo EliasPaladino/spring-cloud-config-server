@@ -2,3 +2,5 @@ server:
   port: ${PORT:8889}
 
 message: Este es un mensaje desde maquinaria-service
+url_dnrpa: https://www.dnrpa.gov.ar/portal_dnrpa
+catalogo_maquina_maximo: 650
